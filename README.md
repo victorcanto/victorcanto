@@ -23,7 +23,7 @@ _ps: Tranquei o curso de Engenharia Eletrônica na metade de 2021 para me dedica
 <img alt="Testing-Library" src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcanto)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀Projetos
 
