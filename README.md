@@ -28,6 +28,6 @@ _ps: Tranquei o curso de Engenharia Eletrônica na metade de 2021 para me dedica
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcanto&theme=gotham&show_icons=true)
 
 
-## 🚀Projetos
+### 🚀Projetos
 
 📁[Trybe](https://github.com/victorcanto/trybe-projects)
