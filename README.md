@@ -5,9 +5,7 @@
 
 <img src="./images/capa-01.png" alt="capa"/>
 
-Meu nome é Victor Canto e após o primeiro contato com programação, virei a chave e escolhi dedicar tempo e energia no meu aprendizado em Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
-
-
+Meu nome é Victor Canto e após o primeiro contato com programação, virei a chave e escolhi dedicar tempo e energia no meu aprendizado em Desenvolvimento Web na [Trybe](https://www.betrybe.com/).
 
 ### 💻Tecnologias
 
