@@ -5,9 +5,9 @@
 
 <img src="./images/capa-01.png" alt="capa"/>
 
-Meu nome é Victor Canto e atualmente estou aprendendo Desenvolvimento Web na [Trybe](https://www.betrybe.com/), também sou acadêmico no curso de Engenharia Eletrônica da [UFPE](https://www.ufpe.br/).
+Meu nome é Victor Canto e após o primeiro contato com programação, virei a chave e escolhi dedicar tempo e energia no meu aprendizado em Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
 
-_ps: Tranquei o curso de Engenharia Eletrônica na metade de 2021 para me dedicar integralmente a Trybe._
+
 
 ### 💻Tecnologias
 
