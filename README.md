@@ -4,7 +4,7 @@
 
 
 <img src="./images/capa-01.png" alt="capa"/>
-<p>Virei a chave e escolhi dedicar tempo e energia no meu aprendizado em Desenvolvimento Web Full Stack.<br><br>
+<p>Após o primeiro contato com programação, virei a chave e escolhi dedicar tempo e energia no meu aprendizado em Desenvolvimento Web Full Stack.<br><br>
 Gosto de ler livros técnicos de JavaScript e Programação Web para aprimorar minha base e evoluir mais rápido no aprendizado de novas tecnologias. Tenho forte interesse na linguagem e seus frameworks, principalmente o React.</p>
 
 ### 💻Tecnologias
