@@ -4,7 +4,9 @@
 
 <p>Após o primeiro contato com programação, virei a chave e escolhi dedicar tempo e energia no meu aprendizado em Desenvolvimento Web Full Stack.
 <br><br>
-Gosto de estudar e busco aprimorar minha base através de novas fontes de conhecimento, visando evoluir como Desenvolvedor de Software.</p>
+Gosto de estudar e busco aprimorar minha base através de novas fontes de conhecimento, visando evoluir como Desenvolvedor de Software.
+<br><br>
+Atualmente estudo Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>, sou da Turma 10-A.
 
 ### 💻Tecnologias
 
