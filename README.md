@@ -6,7 +6,7 @@
 <br><br>
 Gosto de aprender e busco aprimorar minha base através de novas fontes de conhecimento, visando evoluir como Desenvolvedor de Software.
 <br><br>
-Atualmente estudo Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a>, sou da Turma 10-A.
+Estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a>, sou da Turma 10-A.
 
 ### 💻Tecnologias
 
