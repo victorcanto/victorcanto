@@ -26,7 +26,7 @@ Estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Tryb
   <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
+</div><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victorcanto&theme=gotham&show_icons=true)
 
