@@ -10,7 +10,7 @@ Estudo Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Tryb
 
 ### 💻Tecnologias
 
-<div display="flex" justify-content="center">
+<div display="flex">
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
