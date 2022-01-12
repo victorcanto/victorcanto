@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'am Victor Canto</h1>
 <h3 align="center">Fullstack Developer and Trybe Student</h3>
 
-- 🌱 I’m currently learning **NodeJs, Express, SOLID, Sequelize ORM, Sockets**
+- 🌱 I’m currently learning *Computer Science at Trybe**
 
 - 👨‍💻 All of my projects are available at [Trybe](https://github.com/victorcanto/trybe-projects)
 
