@@ -10,43 +10,8 @@
       href="https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Montserrat:wght@300;400;600&display=swap"
       rel="stylesheet"
     />
+    <link rel="stylesheet" href="https://github.com/victorcanto/victorcanto/blob/main/assets/css/readme.styles.css">
     <title>victorcanto</title>
-    <style>
-      body {
-        font-family: Montserrat, sans-serif;
-      }
-      header {
-        text-align: center;
-      }
-      li {
-        list-style: circle;
-      }
-      .flex {
-        display: flex;
-      }
-      .fd-col {
-        flex-direction: column;
-      }
-      #sub-title {
-        font-style: italic;
-        margin-bottom: 22px;
-      }
-      #intro ul {
-        gap: 14px;
-      }
-      #linkedin {
-        margin: 22px auto;
-      }
-      #techs-and-tools img {
-        width: 50px;
-      }
-      #github-stats {
-        margin-top: 40px;
-        justify-content: center;
-        gap: 14px;
-        flex-wrap: wrap;
-      }
-    </style>
   </head>
   <body>
     <header>
