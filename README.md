@@ -11,12 +11,11 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="./assets/css/readme.styles.css">
-    <title>victorcanto</title>
   </head>
   <body>
     <header>
-      <h1 id="title">Hi 👋, I'am Victor Canto</h1>
-      <h2 id="sub-title">Fullstack Developer and Trybe Student</h2>
+      <h1 align="center" id="title">Hi 👋, I'am Victor Canto</h1>
+      <h2 align="center" id="sub-title">Fullstack Developer and Trybe Student</h2>
     </header>
     <main>
       <section id="intro">
@@ -122,7 +121,8 @@
           />
         </div>
       </section>
-      <section id="github-stats" class="flex">
+      <br><br>
+      <section align="center" id="github-stats" class="flex">
         <div>
           <img
             src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcanto&show_icons=true&locale=en&layout=compact"
