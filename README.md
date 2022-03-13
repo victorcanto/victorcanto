@@ -1,24 +1,182 @@
-<h1 align="center">Hi 👋, I'am Victor Canto</h1>
-<h3 align="center">Fullstack Developer and Trybe Student</h3>
-
-- 🌱 I’m currently learning **Computer Science**
-
-- 👨‍💻 All of my projects are available at [Trybe](https://github.com/victorcanto/trybe-projects)
-
-- 💬 Ask me about **Javascript, React, NodeJs**
-
-- 📫 How to reach me **[email](mailto:iamvictorcanto@gmail.com)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vscanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vscanto" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcanto&show_icons=true&locale=en&layout=compact" alt="victorcanto" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorcanto&show_icons=true&locale=en" alt="victorcanto" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=victorcanto" alt="victorcanto" /></p> 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Montserrat:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <title>victorcanto</title>
+    <style>
+      body {
+        font-family: Montserrat, sans-serif;
+      }
+      header {
+        text-align: center;
+      }
+      li {
+        list-style: circle;
+      }
+      .flex {
+        display: flex;
+      }
+      .fd-col {
+        flex-direction: column;
+      }
+      #sub-title {
+        font-style: italic;
+        margin-bottom: 22px;
+      }
+      #intro ul {
+        gap: 14px;
+      }
+      #linkedin {
+        margin: 22px auto;
+      }
+      #techs-and-tools img {
+        width: 50px;
+      }
+      #github-stats {
+        margin-top: 40px;
+        justify-content: center;
+        gap: 14px;
+        flex-wrap: wrap;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1 id="title">Hi 👋, I'am Victor Canto</h1>
+      <h2 id="sub-title">Fullstack Developer and Trybe Student</h2>
+    </header>
+    <main>
+      <section id="intro">
+        <ul class="flex fd-col">
+          <li>🌱 I’m currently learning <strong>Microfrontends</strong></li>
+          <li>
+            👨‍💻 All of my projects are available at
+            <a
+              href="https://github.com/victorcanto/trybe-projects"
+              target="_blank"
+              >Trybe</a
+            >
+          </li>
+          <li>💬 Ask me about <strong>Javascript, React, NodeJs</strong></li>
+          <li>
+            📫 How to reach me
+            <a href="mailto:iamvictorcanto@gmail.com" target="_blank">email</a>
+          </li>
+        </ul>
+        <div id="linkedin">
+          <h3>Connect with me:</h3>
+          <a href="https://linkedin.com/in/vscanto" target="blank"
+            ><img
+              align="center"
+              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+              alt="vscanto"
+              height="30"
+              width="40"
+          /></a>
+        </div>
+      </section>
+      <section id="techs-and-tools">
+        <h3>Languages and tools</h3>
+        <div id="frontend">
+          <p>Front-end</p>
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+            alt="html5"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+            alt="css3"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+            alt="javascript"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            alt="typescript"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            alt="react"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+            alt="bootstrap"
+          />
+          <img
+            alt="styled-components"
+            src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
+            alt="styled-components"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+            alt="sass"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"
+            alt="bulma"
+          />
+        </div>
+        <div id="backend">
+          <p>Back-end</p>
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+            alt="bash"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            alt="node js"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+            alt="python"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+            alt="mysql"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+            alt="mongodb"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
+            alt="sequelize"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+            alt="docker"
+          />
+        </div>
+      </section>
+      <section id="github-stats" class="flex">
+        <div>
+          <img
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=victorcanto&show_icons=true&locale=en&layout=compact"
+            alt="victorcanto"
+          />
+        </div>
+        <div>
+          <img
+            src="https://github-readme-stats.vercel.app/api?username=victorcanto&show_icons=true&locale=en"
+            alt="victorcanto"
+          />
+        </div>
+        <div>
+          <img
+            src="https://github-readme-streak-stats.herokuapp.com/?user=victorcanto"
+            alt="victorcanto"
+          />
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
