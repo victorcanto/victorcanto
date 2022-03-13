@@ -31,6 +31,10 @@ li {
   margin: 22px auto;
 }
 
+#techs-and-tools {
+  gap: 12px;
+}
+
 #techs-and-tools img {
   width: 50px;
 }

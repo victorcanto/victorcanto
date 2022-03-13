@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -10,7 +10,7 @@
       href="https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Montserrat:wght@300;400;600&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="https://github.com/victorcanto/victorcanto/blob/main/assets/css/readme.styles.css">
+    <link rel="stylesheet" href="./assets/css/readme.styles.css">
     <title>victorcanto</title>
   </head>
   <body>
@@ -48,76 +48,76 @@
           /></a>
         </div>
       </section>
-      <section id="techs-and-tools">
+      <section id="techs-and-tools" class="flex fd-col">
         <h3>Languages and tools</h3>
         <div id="frontend">
           <p>Front-end</p>
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-            alt="html5"
+            alt="html5" width="50px"
           />
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-            alt="css3"
+            alt="css3" width="50px"
           />
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-            alt="javascript"
+            alt="javascript" width="50px"
           />
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-            alt="typescript"
+            alt="typescript" width="50px"
           />
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"
             alt="react"
           />
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-            alt="bootstrap"
+            alt="bootstrap" width="50px"
           />
           <img
             alt="styled-components"
             src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
-            alt="styled-components"
+            alt="styled-components" width="50px"
           />
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px"
             alt="sass"
           />
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="50px"
             alt="bulma"
           />
         </div>
         <div id="backend">
           <p>Back-end</p>
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px"
             alt="bash"
           />
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"
             alt="node js"
           />
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"
             alt="python"
           />
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"
             alt="mysql"
           />
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"
             alt="mongodb"
           />
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50px"
             alt="sequelize"
           />
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px"
             alt="docker"
           />
         </div>
