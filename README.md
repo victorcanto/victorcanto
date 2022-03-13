@@ -15,7 +15,7 @@
   <body>
     <header>
       <h1 align="center" id="title">Hi 👋, I'am Victor Canto</h1>
-      <h2 align="center" id="sub-title">Fullstack Developer and Trybe Student</h2>
+      <h3 align="center" id="sub-title">Fullstack Developer and Trybe Student</h3>
     </header>
     <main>
       <section id="intro">
