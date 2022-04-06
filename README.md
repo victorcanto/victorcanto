@@ -22,7 +22,7 @@
               >Trybe</a
             >
           </li>
-          <li>💬 Ask me about <strong>Javascript, React, NodeJs</strong></li>
+          <li>💬 Ask me about <strong>Javascript, React, NodeJs, Python...</strong></li>
           <li>
             📫 How to reach me
             <a href="mailto:iamvictorcanto@gmail.com" target="_blank">email</a>
