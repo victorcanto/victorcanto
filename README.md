@@ -97,6 +97,10 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"
             alt="python"
           />
+           <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="50px"
+            alt="elixir"
+          /> 
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"
             alt="mysql"
