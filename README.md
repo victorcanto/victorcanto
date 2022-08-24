@@ -13,7 +13,7 @@
     <main>
       <section id="intro">
         <ul class="flex fd-col">
-          <li>🌱 I’m currently learning <strong>Microfrontends</strong></li>
+          <li>🌱 I’m currently learning <strong>Clean Architecture for Front-end</strong></li>
           <li>
             👨‍💻 All of my projects are available at
             <a
@@ -22,7 +22,7 @@
               >Trybe</a
             >
           </li>
-          <li>💬 Ask me about <strong>Javascript, React, NodeJs, Python...</strong></li>
+          <li>💬 Ask me about <strong>TypeScript, React, NodeJs, Python...</strong></li>
           <li>
             📫 How to reach me
             <a href="mailto:iamvictorcanto@gmail.com" target="_blank">email</a>
