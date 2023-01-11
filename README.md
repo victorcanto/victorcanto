@@ -43,6 +43,7 @@
       <section id="techs-and-tools" class="flex fd-col">
         <h3>Technologies</h3>
         <div id="languages">
+          <p>Languages</p>
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
             alt="javascript" width="50px"
