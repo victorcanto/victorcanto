@@ -41,7 +41,25 @@
         </div>
       </section>
       <section id="techs-and-tools" class="flex fd-col">
-        <h3>Languages and tools</h3>
+        <h3>Technologies</h3>
+        <div id="languages">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+            alt="javascript" width="50px"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+            alt="typescript" width="50px"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"
+            alt="python"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="50px"
+            alt="elixir"
+          /> 
+        </div>
         <div id="frontend">
           <p>Front-end</p>
           <img
@@ -51,14 +69,6 @@
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
             alt="css3" width="50px"
-          />
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-            alt="javascript" width="50px"
-          />
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-            alt="typescript" width="50px"
           />
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"
@@ -97,14 +107,6 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"
             alt="node js"
           />
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"
-            alt="python"
-          />
-           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="50px"
-            alt="elixir"
-          /> 
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"
             alt="mysql"
