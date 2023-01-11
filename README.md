@@ -64,6 +64,10 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"
             alt="react"
           />
+            <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px"
+            alt="Angular"
+          />
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
             alt="bootstrap" width="50px"
