@@ -8,12 +8,13 @@
   <body>
     <header>
       <h1 align="center" id="title">Hi 👋, I'am Victor Canto</h1>
-      <h3 align="center" id="sub-title"><em>Fullstack Developer</em></h3>
+      <h3 align="center" id="sub-title"><em>Software Developer</em></h3>
     </header>
     <main>
       <section id="intro">
         <ul class="flex fd-col">
-          <li>🌱 I’m currently learning <strong>Clean Architecture for Front-end</strong></li>
+          <li>📖 I'm currently focusing on <strong>Clean Architecture, Ports and Adapters, DDD, TDD, SOLID and Design Patterns.</strong></li>
+          <li>🎓 I'm currently graduating in <strong>Software Engineering.</strong></li>
           <li>
             👨‍💻 All of my projects are available at
             <a
@@ -56,11 +57,16 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"
             alt="python"
           />
+          <img 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="50px"
+            alt="csharp"
+          />
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="50px"
             alt="elixir"
           /> 
         </div>
+        <br>
         <div id="frontend">
           <p>Front-end</p>
           <img
@@ -72,29 +78,28 @@
             alt="css3" width="50px"
           />
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"
-            alt="react"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50px"
+            alt="nextjs"
           />
             <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50px"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50px"
             alt="Angular"
           />
           <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
             alt="bootstrap" width="50px"
           />
           <img
-            alt="styled-components"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+            alt="bootstrap" width="50px"
+          />
+          <img
             src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png"
             alt="styled-components" width="50px"
           />
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50px"
             alt="sass"
-          />
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" width="50px"
-            alt="bulma"
           />
         </div>
         <br>
@@ -112,6 +117,10 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px"
             alt="mysql"
           />
+          <img 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50px"
+            alt="postgresql"
+          />
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"
             alt="mongodb"
@@ -123,6 +132,10 @@
           <img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px"
             alt="docker"
+          />
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50px"
+            alt="postman"
           />
         </div>
       </section>
